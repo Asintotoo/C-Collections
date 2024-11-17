@@ -13,8 +13,8 @@ See some examples [here](https://github.com/Asintotoo/C-Collections/tree/main/te
 - [X] HashSet
 - [X] HashMap
 - [X] Stack
-- [ ] Queue
-- [ ] Deque
+- [X] Queue
+- [X] Deque
 - [ ] Binary Tree
 - [ ] Graph
 
