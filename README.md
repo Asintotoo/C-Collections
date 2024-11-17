@@ -18,6 +18,8 @@ See some examples [here](https://github.com/Asintotoo/C-Collections/tree/main/te
 - [ ] Binary Tree
 - [ ] Graph
 
+More coming soon...
+
 
 ## Disclaimer
 This project is still highly work in progress, therefore the present algorithms may contains bugs and/or not be the most optimized. Any help in improving this project is truly appreciated.
