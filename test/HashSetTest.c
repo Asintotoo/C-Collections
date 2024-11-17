@@ -16,7 +16,7 @@ int compare_int(void* data1, void* data2) {
 }
 
 int main() {
-    HashSet set = create_hashset(10, sizeof(int), hash_int, compare_int);
+    HashSet set = create_hashset(sizeof(int), hash_int, compare_int);
 
     int a = 5, b = 10, c = 15, d = 15;
 

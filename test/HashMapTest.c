@@ -17,7 +17,7 @@ void print_pair(void* key, void* value) {
 
 int main() {
 
-    HashMap map = create_hashmap(10, sizeof(int), sizeof(int), hash_int, compare_int);
+    HashMap map = create_hashmap(sizeof(int), sizeof(int), hash_int, compare_int);
 
     int key1 = 1, key2 = 5, key3 = 10, key4 = 43;
     int value1 = 100, value2 = 200, value3 = 300, value4 = 400;
